@@ -5,7 +5,7 @@
     "jest": "^28.1.3"
   },
   "name": "userscript-header-format",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
     "lib/*"
@@ -17,6 +17,8 @@
   "keywords": [
     "userscript"
   ],
+  "repository": "github:lerarosalene/userscript-header-format",
+  "homepage": "https://github.com/lerarosalene/userscript-header-format",
   "author": "Larissa Rosalene <lerarosalene@outlook.com>",
   "license": "MIT",
   "description": "Format userscript headers"
