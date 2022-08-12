@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "coffeescript": "^2.7.0",
+    "esbuild": "^0.15.1",
+    "jest": "^28.1.3"
+  },
+  "name": "userscript-header-format",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "build": "coffee build.coffee",
+    "test": "jest"
+  },
+  "keywords": [
+    "userscript"
+  ],
+  "author": "Larissa Rosalene <lerarosalene@outlook.com>",
+  "license": "MIT",
+  "description": "Format userscript headers"
+}
