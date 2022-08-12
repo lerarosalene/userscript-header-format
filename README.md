@@ -1,6 +1,6 @@
 # Userscript header formatter
 
-![release](https://github.com/lerarosalene/userscript-header-format/actions/workflows/release.yaml/badge.svg)
+![release](https://github.com/lerarosalene/userscript-header-format/actions/workflows/release.yaml/badge.svg?branch=release/0.1.1)
 
 Tool to format userscript headers from js.
 
