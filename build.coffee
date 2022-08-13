@@ -16,7 +16,6 @@ main = ->
   await esbuild.build(
     entryPoints: [join "src", "Header.coffee"]
     bundle: true
-    minify: true
     format: "cjs"
     outfile: join "lib", "index.js"
     loader:
